@@ -9,5 +9,5 @@ IPHM Enabled Server - Server without BCP38 turned on.
 Without this your server will send your server IP and not spoofed IP!
 ```
 
-# USAGE
+# 💡 USAGE
 ```python3 ip.spoof.scan.py [TCP-PORT-NUMBER] [TIME-TO-RUN] [IPV4-TO-SCAN] [DATA]```
